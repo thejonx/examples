@@ -22,10 +22,10 @@ The "Network Connections" window will open. Right click "Local Area Connection" 
 <img src="images/Network Connections.png" alt="Network Connections screenshot" style="width: 600px;"/>  
 
 Select "Internet Protocol Version 4 (TCP/IPv4)" and make sure the box to the left of it is checked. Now click "Properties".  
-<img src="images/LAN Properties 1.png" alt="LAN Properties screenshot" width="300" height="300"/>  
+<img src="images/LAN Properties 1.png" alt="LAN Properties screenshot" width="600" height="600"/>  
 
 Note your current network settings, as you will need to revert to them after configuring the NanoStation. Click "Use the following IP Address" and fill in the IP address as `192.168.1.2`. Click in the "Subnet Mask" box. It should automatically populate the subnet as `255.255.255.0`. Hit "OK".  
-<img src="images/LAN Properties 2.png" alt="LAN Properties screenshot" style="width: 150px;"/>  
+<img src="images/LAN Properties 2.png" alt="LAN Properties screenshot" width="600" height="600"/>  
 
 Your connection is now prepared. Continue to [Configuring the NanoStation](#configure nsm5).
 
