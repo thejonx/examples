@@ -7,7 +7,7 @@ This work is provided as-is, without any warranty expressed or implied and under
 ##<a name="download firmware"></a> Download the latest firmware
 Before beginning the configuration process, [download](http://www.ubnt.com/download/) the latest version of the NanoStation locoM5 firmware. In this example, the Platform that needs selected is "airMax", Product Group "NanoStation M", and model "locoM5". If there is any uncertainty about whether you need the XW or XM firmware, download the latest version of both.    
 
-If you are using Microsoft Windows 7, start by [preparing your connection](#windows config). If you are using Mac OSX, [start here](#mac config). If you are using Linux, it is assumed you know how to configure your a network interface. Configure the interface and continue to [configuring the NanoStation](#configure nsm5).  
+If you are using Microsoft Windows 7, start by [preparing your connection](#windows config). If you are using Mac OSX, [start here](#mac config). If you are using Linux, it is assumed you know how to configure a network interface. Configure the interface and continue to [configuring the NanoStation](#configure nsm5).  
 
 ##<a name="windows config"></a> Prepare your connection using Microsoft Windows 7
 Using straight-through ethernet cables, plug the NanoStation and a computer into a switch. By default the NanoStation's IP address will be `192.168.1.20`, so the computer will need to be configured to operate on this subnet.  
